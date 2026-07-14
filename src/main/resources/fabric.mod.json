@@ -4,12 +4,12 @@
   "version": "1.0.0",
   "name": "Mob Death Mod",
   "description": "Simple death logger",
-  "authors": ["tyzik1609"],
+  "authors": ["bulkabonya"],
   "contact": {},
   "license": "MIT",
   "environment": "*",
   "entrypoints": {
-    "main": ["ru.tyzik.mobdeath.MobDeathMod"]
+    "main": ["ru.bulkabonya.mobdeath.MobDeathMod"]
   },
   "depends": {
     "fabricloader": ">=0.14.21",
